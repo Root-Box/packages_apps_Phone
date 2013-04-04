@@ -77,6 +77,8 @@
     <string name="apn_settings" msgid="9043423184895642077">"Erişim Noktası Adları"</string>
     <string name="settings_label" msgid="3876743539816984008">"Ağ ayarları"</string>
     <string name="voicemail" msgid="8693759337917898954">"Sesli mesaj"</string>
+    <string name="mwi_notification_title">Mesaj bekleme göstergesi</string>
+    <string name="mwi_notification_summary">Mesaj bekleme göstergesinde sesli bildirimleri göster</string>
     <string name="voicemail_abbreviated" msgid="2215592488517217448">"VM:"</string>
     <string name="networks" msgid="8873030692174541976">"Ağ operatörleri"</string>
     <string name="call_settings" msgid="6112441768261754562">"Çağrı ayarları"</string>
@@ -330,6 +332,10 @@
     <string name="tty_mode_option_summary" msgid="1073835131534808732">"TTY modunu ayarla"</string>
     <string name="auto_retry_mode_title" msgid="4073265511427813322">"Otomatik yeniden deneme"</string>
     <string name="auto_retry_mode_summary" msgid="4973886004067532288">"Otomatik Yeniden Deneme modunu etkinleştir"</string>
+    <string name="exit_to_home_screen_title">Arama bittiğinde çık</string>
+    <string name="exit_to_home_screen_summary">Arama sonlandığında geçmiş aramalara gitmeden tamamen çıkış yapar</string>
+    <string name="landscape_mode_title">Yatay modu etkinleştir</string>
+    <string name="landscape_mode_summary">Eğer sensör aktif ise yatay modu etkinleştirir</string>
     <string name="menu_add" msgid="1882023737425114762">"Kişi ekle"</string>
     <string name="menu_edit" msgid="7143003705504672374">"Kişiyi düzenle"</string>
     <string name="menu_delete" msgid="3977150783449642851">"Kişiyi sil"</string>
@@ -504,6 +510,8 @@
     <string name="voicemail_settings" msgid="72448049107749316">"Kurulum"</string>
     <string name="voicemail_number_not_set" msgid="6724904736891087856">"&lt;Ayarlanmadı&gt;"</string>
     <string name="other_settings" msgid="3672912580359716394">"Diğer çağrı ayarları"</string>
+    <string name="dialer_ui_settings_title">Arama tuşu ayarları</string>
+    <string name="dialer_ui_settings_summary">Arama tuşları için ayarlar</string>
     <string name="calling_via_template" msgid="4839419581866928142">"<xliff:g id="PROVIDER_NAME">%s</xliff:g> üzerinden çağrı yapılıyor"</string>
     <string name="contactPhoto" msgid="4713193418046639466">"kişi fotoğrafı"</string>
     <string name="goPrivate" msgid="865837794424530980">"özele git"</string>
@@ -620,7 +628,24 @@
     <item msgid="1458182414036878616">"Hiçbir zaman"</item>
   </string-array>
     <string name="ringtone_title" msgid="6374978286202084684">"Telefon zil sesi"</string>
+    <string name="vibration_title">Telefon titreşimi</string>
     <string name="vibrate_on_ring_title" msgid="9197564612065258960">"Çalarken titret"</string>
     <string name="dtmf_tone_enable_title" msgid="827601042915852989">"Tuşlara basınca ses çıksın"</string>
+    <string name="dtmf_tone_enable_title">Tuşlara basınca ses çıksın</string>
+    <string name="preference_category_ringtone">Zil sesi</string>
+    <string name="national_roaming">Veri dolaşımı</string>
+    <string name="national_roaming_enable">Dolaşım esnasında veri hizmetine bağlan</string>
+    <string name="national_roaming_disable">Dolaşım esnasında veri hizmetine bağlanma</string>
+    <string name="advanced_setting">Gelişmiş Ayarlar</string>
+    <string name="vibrate_outgoing">Cevaplandığında Titret</string>
+    <string name="vibrate_outgoing_sum">Giden arama yanıtlandığında titrer</string>
+    <string name="vibrate_60">Her 60 saniyede bir Titret</string>
+    <string name="vibrate_60_sum">Yapılan görüşmeler sırasında dakikayı belirtmek için her 60 saniyede bir titrer</string>
+    <string name="vibrate_hangup">Kapandığında Titret</string>
+    <string name="vibrate_hangup_sum">Görüşme sonlandığında titrer</string>
+    <string name="vibrate_call_waiting">Bekleyen çağrıda Titret</string>
+    <string name="vibrate_call_waiting_sum">Bekleyen arama olduğunda titrer</string>
+    <string name="noise_suppression_title">Gürültü önleyici</string>
+    <string name="noise_suppression_summary">Aramalar için gürültü önleyiciyi etkinleştirir</string>
     <string name="preference_category_ringtone" msgid="5197960752529332721">"Zil Sesi ve Titreşim"</string>
 </resources>
