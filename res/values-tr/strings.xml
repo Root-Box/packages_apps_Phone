@@ -630,7 +630,6 @@
     <string name="ringtone_title" msgid="6374978286202084684">"Telefon zil sesi"</string>
     <string name="vibration_title">Telefon titreşimi</string>
     <string name="vibrate_on_ring_title" msgid="9197564612065258960">"Çalarken titret"</string>
-    <string name="dtmf_tone_enable_title" msgid="827601042915852989">"Tuşlara basınca ses çıksın"</string>
     <string name="dtmf_tone_enable_title">Tuşlara basınca ses çıksın</string>
     <string name="preference_category_ringtone">Zil sesi</string>
     <string name="national_roaming">Veri dolaşımı</string>
@@ -647,5 +646,4 @@
     <string name="vibrate_call_waiting_sum">Bekleyen arama olduğunda titrer</string>
     <string name="noise_suppression_title">Gürültü önleyici</string>
     <string name="noise_suppression_summary">Aramalar için gürültü önleyiciyi etkinleştirir</string>
-    <string name="preference_category_ringtone" msgid="5197960752529332721">"Zil Sesi ve Titreşim"</string>
 </resources>
