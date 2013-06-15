@@ -681,7 +681,9 @@
     <string name="blacklist_summary">Las llamadas entrantes de números de teléfono en la lista negra serán bloqueadas</string>
     <string name="blacklist_notify">Mostrar notificación</string>
     <string name="blacklist_regex_title">Utilice comodines</string>
-    <string name="blacklist_regex_summary">Use . como un comodín y * para la repetición. Ej. 123.* bloquear numero que empiezan con 123 y .*123.* bloquea numero que contengan 123.</string>
+    <string name="blacklist_regex_summary">Use >>.<< como un comodín y >>*<< para la repetición. Ej. 123.* bloquear numero que empiezan con 123 y .*123.* bloquea numero que contengan 123.</string>
+    <string name="blacklist_unknown_numbers_title">Números desconocidos</string>
+    <string name="blacklist_unknown_numbers_summary">Bloquea llamadas entrantes de números que no estén en la lista de contactos</string> 
     <!-- Blacklist management -->
     <string name="add_blacklist_number">Agregar número de telefono</string>
     <string name="add_to_blacklist">Agregar a lista negra</string>
@@ -695,6 +697,11 @@
     <string name="blacklist_notification_multiple"><xliff:g id="count">%d</xliff:g> llamadas fueron bloqueadas</string>
     <string name="blacklist_notification_private_number">Bloqueada una llamada de un número privado</string>
     <string name="unblock_number">Desbloquear</string>
+    <string name="blacklist_notification_list_private">Privado</string>
+    <string name="blacklist_notification_unknown_number">Número desconocido bloqueado %s</string> 
     <!-- Text for the onscreen "Blacklist" button -->
     <string name="onscreenBlacklistText">Lista negra</string>
+        <!-- Transparent in call widget -->
+    <string name="transparent_in_call_widget">Transparencia en la pantalla de llamada</string>
+    <string name="transparent_in_call_widget_summary">Muestra la imagen de contacto completa sobre las llamadas entrantes</string>
 </resources>
